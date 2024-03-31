@@ -30,7 +30,7 @@ Le but principal de ce projet est de fournir un outil efficace pour identifier l
 - Les informations de connexion des experts sont stockées dans le fichier `experts.txt`.
 - Les informations de connexion des utilisateurs sont stockées dans le fichier `utilisateurs.txt`.
 
-## Auteurs
+## Auteur
 Ce projet a été réalisé par Loubna NAKHLAOUI. 
 
 ## Rapport
